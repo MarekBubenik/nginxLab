@@ -1,0 +1,1 @@
+docker run -it -v /home/mb/containers/nginxLab/lab2:/app -w /app python:latest python3 calendar_app.py
